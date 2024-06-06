@@ -1,0 +1,87 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-suspension---primary.py
+inputModule3:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-modifiedrelease---primary.py
+inputModule4:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-sachet---primary.py
+inputModule5:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-liquid---primary.py
+inputModule6:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-375mg---primary.py
+inputModule7:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-300mg---primary.py
+inputModule8:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-ticagrelor---primary.py
+inputModule9:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-retard---primary.py
+inputModule10:
+  class: File
+  path: python/efient-antiplatelets-secondary-prevention-primary-for-diabetes-mellitus---primary.py
+inputModule11:
+  class: File
+  path: python/brilique-antiplatelets-secondary-prevention-primary-for-diabetes-mellitus---primary.py
+inputModule12:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-dipyridamole---primary.py
+inputModule13:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-solution---primary.py
+inputModule14:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-250mg---primary.py
+inputModule15:
+  class: File
+  path: python/orodispersible-antiplatelets-secondary-prevention-primary-for-diabetes-mellitus---primary.py
+inputModule16:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-capsule---primary.py
+inputModule17:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-100mg---primary.py
+inputModule18:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-postmi---primary.py
+inputModule19:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-gastroresistant---primary.py
+inputModule20:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-pyridantin---primary.py
+inputModule21:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-plavix---primary.py
+inputModule22:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-prasugrel---primary.py
+inputModule23:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-persantin---primary.py
+inputModule24:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-200mg---primary.py
+inputModule25:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-sugar---primary.py
+inputModule26:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-tablet---primary.py
+inputModule27:
+  class: File
+  path: python/antiplatelets-secondary-prevention-primary-for-diabetes-mellitus-prafsia---primary.py
+inputModule28:
+  class: File
+  path: python/output-cases.py
